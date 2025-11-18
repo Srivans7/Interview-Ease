@@ -1,0 +1,21 @@
+/* statuscard.css */
+
+.status-card {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .status-card h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .status-card p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  

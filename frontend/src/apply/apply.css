@@ -1,0 +1,90 @@
+ApplyNow.css
+
+.apply-now-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .apply-now-container h1 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  textarea {
+    height: 150px; /* Adjust the height as needed */
+  }
+  
+ 
+  .apply-now-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding-top: 50px; /* Add padding from the top */
+  }
+  
+  .apply-now-container h1 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  textarea {
+    height: 150px; /* Adjust the height as needed */
+  }
+  
+  .btn {
+    width: 50%;
+    padding: 10px;
+    /* background-color:  #5487fe; */
+    background-color: rgb(98, 98, 98);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 25%;
+  }
+  
+  .btn:hover {
+    background-color: rgb(38, 38, 38);
+  }
+  

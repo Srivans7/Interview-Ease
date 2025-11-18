@@ -1,0 +1,31 @@
+.vacancy-card {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .vacancy-card h2 {
+    margin-bottom: 10px;
+  }
+  
+  .vacancy-card p {
+    margin-bottom: 5px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #7ea1f4;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-bottom: auto;    
+  }
+  
+  .btn:hover {
+    background-color: #004cff;
+  }

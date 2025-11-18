@@ -1,0 +1,30 @@
+.thank-you-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .thank-you-container h1 {
+    margin-bottom: 20px;
+    color: #007bff; /* Blue color */
+  }
+  
+  .thank-you-container p {
+    margin-bottom: 10px;
+  }
+  
+  .thank-you-container .interview-id {
+    font-weight: bold;
+  }
+  
+  .thank-you-container a {
+    color: #007bff; /* Blue color */
+    text-decoration: none;
+  }
+  
+  .thank-you-container a:hover {
+    text-decoration: underline;
+  }
